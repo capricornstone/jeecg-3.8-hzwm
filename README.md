@@ -1,55 +1,57 @@
-JEECG Î¢ÔÆ¿ìËÙ¿ª·¢Æ½Ì¨
+æ±‡æ™ºä¸ºæ°‘å¿«é€Ÿå¼€å‘å¹³å°
 ===============
 
-µ±Ç°×îĞÂ°æ±¾£º 3.8£¨·¢²¼ÈÕÆÚ£º20181024£©
+å½“å‰æœ€æ–°ç‰ˆæœ¬ï¼š 3.8ï¼ˆå‘å¸ƒæ—¥æœŸï¼š20181024ï¼‰
 
-ĞèÒªĞŞ¸ÄµÄÎÄ×Ö£º
+å·²ä¿®æ”¹çš„æ–‡å­—ï¼š
 -----------------------------------
-| ĞòºÅ | ÎÄ¼şÃû³Æ | ÎÄ¼şÂ·¾¶ | ĞĞºÅ | ÄÚÈİ |
+| åºå· | æ–‡ä»¶åç§° | æ–‡ä»¶è·¯å¾„ | ä¿®æ”¹å†…å®¹ |
+| :-: | - | - | - |
+| 1 | login.jsp | src/main/webapp/webpage/login/login.jsp | è¯¦è§æ–‡ä»¶ |
+| 2 | login3.jsp | src/main/webapp/webpage/login/login3.jsp | è¯¦è§æ–‡ä»¶ |
+| 3 | ace_main.jsp | src/main/webapp/webpage/main/ace_main.jsp | è¯¦è§æ–‡ä»¶ |
+| 4 | ace_main2.jsp | src/main/webapp/webpage/main/ace_main2.jsp | è¯¦è§æ–‡ä»¶ |
+| 5 | acehome.jsp | src/main/webapp/webpage/main/acehome.jsp | è¯¦è§æ–‡ä»¶ |
+| 6 | adminlte_home.jsp | src/main/webapp/webpage/main/adminlte_home.jsp | è¯¦è§æ–‡ä»¶ |
+| 7 | adminlte_main.jsp | src/main/webapp/webpage/main/adminlte_main.jsp | è¯¦è§æ–‡ä»¶ |
+| 8 | bootstrap_main.jsp | src/main/webapp/webpage/main/bootstrap_main.jsp | è¯¦è§æ–‡ä»¶ |
+| 9 | diy.jsp | src/main/webapp/webpage/main/diy.jsp | è¯¦è§æ–‡ä»¶ |
+| 10 | fineui_home.jsp | src/main/webapp/webpage/main/fineui_home.jsp | è¯¦è§æ–‡ä»¶ |
+| 11 | fineui_main.jsp | src/main/webapp/webpage/main/fineui_main.jsp | è¯¦è§æ–‡ä»¶ |
+| 12 | home.jsp | src/main/webapp/webpage/main/home.jsp | è¯¦è§æ–‡ä»¶ |
+| 13 | homeTab.jsp | src/main/webapp/webpage/main/homeTab.jsp | è¯¦è§æ–‡ä»¶ |
+| 14 | hplus_main.jsp | src/main/webapp/webpage/main/hplus_main.jsp | è¯¦è§æ–‡ä»¶ |
+| 15 | hplushome.jsp | src/main/webapp/webpage/main/hplushome.jsp | è¯¦è§æ–‡ä»¶ |
+| 16 | main.jsp | src/main/webapp/webpage/main/main.jsp | è¯¦è§æ–‡ä»¶ |
+| 17 | shortcut_main.jsp | src/main/webapp/webpage/main/shortcut_main.jsp | è¯¦è§æ–‡ä»¶ |
+| 18 | sliding_main.jsp | src/main/webapp/webpage/main/sliding_main.jsp | è¯¦è§æ–‡ä»¶ |
+
+å·²ä¿®æ”¹çš„å›¾ç‰‡ï¼š
+-----------------------------------
+| åºå· | å›¾ç‰‡åç§° | å›¾ç‰‡è·¯å¾„ | åƒç´  | å›¾ç‰‡ |
 | :-: | - | - | - | - |
-| 1 | login.jsp | src/main/webapp/webpage/login/login.jsp | 52,120 | Ïê¼ûÔ´ÎÄ¼ş |
-| 2 | login3.jsp | src/main/webapp/webpage/login/login3.jsp | 121,132 | Ïê¼ûÔ´ÎÄ¼ş |
-| 3 | ace_main.jsp | src/main/webapp/webpage/main/ace_main.jsp | 69 | JEECG Î¢ÔÆ¿ìËÙ¿ª·¢Æ½Ì¨ |
-| 4 | ace_main2.jsp | src/main/webapp/webpage/main/ace_main2.jsp | 501 | <span class="blue bolder">JEECG</span> |
-| 5 | acehome.jsp | src/main/webapp/webpage/main/acehome.jsp | È«²¿ | Ïê¼ûÔ´ÎÄ¼ş |
-| 6 | adminlte_main.jsp | src/main/webapp/webpage/main/adminlte_main.jsp | 11,12,328~330 | Ïê¼ûÔ´ÎÄ¼ş |
-| 7 | bootstrap_main.jsp | src/main/webapp/webpage/main/bootstrap_main.jsp | 85~86 | Ïê¼ûÔ´ÎÄ¼ş |
-| 8 | diy.jsp | src/main/webapp/webpage/main/diy.jsp | 415~416 | Ïê¼ûÔ´ÎÄ¼ş |
-| 9 | fineui_home.jsp | src/main/webapp/webpage/main/fineui_home.jsp | È«²¿ | Ïê¼ûÔ´ÎÄ¼ş |
-| 10 | home.jsp | src/main/webapp/webpage/main/home.jsp | È«²¿ | Ïê¼ûÔ´ÎÄ¼ş |
-| 11 | homeTab.jsp | src/main/webapp/webpage/main/homeTab.jsp | È«²¿ | Ïê¼ûÔ´ÎÄ¼ş |
-| 12 | hplus_main.jsp | src/main/webapp/webpage/main/hplus_main.jsp | 12~13,42,59 | Ïê¼ûÔ´ÎÄ¼ş |
-| 13 | hplushome.jsp | src/main/webapp/webpage/main/hplushome.jsp | È«²¿ | Ïê¼ûÔ´ÎÄ¼ş |
-| 14 | main.jsp | src/main/webapp/webpage/main/main.jsp | 249~251 | Ïê¼ûÔ´ÎÄ¼ş |
-| 15 | shortcut_main.jsp | src/main/webapp/webpage/main/shortcut_main.jsp | 179,308~310 | Ïê¼ûÔ´ÎÄ¼ş |
-| 16 | sliding_main.jsp | src/main/webapp/webpage/main/sliding_main.jsp | 6 | <title>JEECG Î¢ÔÆ¿ìËÙ¿ª·¢Æ½Ì¨</title> |
+| 1 | favicon.ico | src/main/webapp/images/favicon.ico | 16Ã—16 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/images/favicon.ico "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") | 
+| 2 | head.png | src/main/webapp/plug-in/login/images/head.png | 131Ã—59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/head.png "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 3 | jeecg.jpg | src/main/webapp/plug-in/login/images/jeecg.jpg | 344Ã—344 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/jeecg.jpg "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 4 | jeecg.png | src/main/webapp/plug-in/login/images/jeecg.png | 153Ã—55 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/jeecg.png "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 5 | jeecg_tag.png | src/main/webapp/plug-in/login/images/jeecg_tag.png | 111Ã—110 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/jeecg_tag.png "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 6 | jeecg-aceplus.png | src/main/webapp/plug-in/login/images/jeecg-aceplus.png | 220Ã—80 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/jeecg-aceplus.png "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 7 | logo.jpg | src/main/webapp/plug-in/login/images/logo.jpg | 397Ã—104 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/logo.jpg "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 8 | toplogo.png | src/main/webapp/plug-in/login/images/toplogo.png | 576Ã—59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/toplogo.png "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 9 | toplogo-jeecg.png | src/main/webapp/plug-in/login/images/toplogo-jeecg.png | 576Ã—59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/toplogo-jeecg.png "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 10 | toplogo-main.png | src/main/webapp/plug-in/login/images/toplogo-main.png | 576Ã—59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/toplogo-main.png "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
+| 11 | typelogin.png | src/main/webapp/plug-in/login/images/typelogin.png | 111Ã—110 | ![JEECG](https://github.com/capricornstone/jeecg-3.8-hzwm/blob/master/src/main/webapp/plug-in/login/images/typelogin.png "Jeecgå¿«é€Ÿå¼€å‘å¹³å°") |
 
-ĞèÒªĞŞ¸ÄµÄÍ¼Æ¬£º
+å„é£æ ¼æµè§ˆå™¨å…¼å®¹æ€§ï¼š
 -----------------------------------
-| ĞòºÅ | Í¼Æ¬Ãû³Æ | Í¼Æ¬Â·¾¶ | ÏñËØ | Í¼Æ¬ |
-| :-: | - | - | - | - |
-| 1 | favicon.ico | src/main/webapp/images/favicon.ico | 16¡Á16 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/images/favicon.ico "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") | 
-| 2 | head.png | src/main/webapp/plug-in/login/images/head.png | 131¡Á59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/head.png "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 3 | jeecg.jpg | src/main/webapp/plug-in/login/images/jeecg.jpg | 344¡Á344 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg.jpg "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 4 | jeecg.png | src/main/webapp/plug-in/login/images/jeecg.png | 153¡Á55 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg.png "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 5 | jeecg_tag.png | src/main/webapp/plug-in/login/images/jeecg_tag.png | 111¡Á110 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg_tag.png "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 6 | jeecg-aceplus.png | src/main/webapp/plug-in/login/images/jeecg-aceplus.png | 220¡Á80 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg-aceplus.png "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 7 | logo.jpg | src/main/webapp/plug-in/login/images/logo.jpg | 397¡Á104 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/logo.jpg "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 8 | toplogo.png | src/main/webapp/plug-in/login/images/toplogo.png | 576¡Á59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/toplogo.png "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 9 | toplogo-jeecg.png | src/main/webapp/plug-in/login/images/toplogo-jeecg.png | 576¡Á59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/toplogo-jeecg.png "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 10 | toplogo-main.png | src/main/webapp/plug-in/login/images/toplogo-main.png | 576¡Á59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/toplogo-main.png "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-| 11 | typelogin.png | src/main/webapp/plug-in/login/images/typelogin.png | 111¡Á110 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/typelogin.png "Jeecg¿ìËÙ¿ª·¢Æ½Ì¨") |
-
-¸÷·ç¸ñä¯ÀÀÆ÷¼æÈİĞÔ£º
------------------------------------
-| # | ACEÆ½Ãæ·ç¸ñ | ShortCut·ç¸ñ | ¾­µä·ç¸ñ | SlidingÔÆ×ÀÃæ | H+Æ½Ãæ·ç¸ñ | FineUI·ç¸ñ |
+| # | ACEå¹³é¢é£æ ¼ | ShortCuté£æ ¼ | ç»å…¸é£æ ¼ | Slidingäº‘æ¡Œé¢ | H+å¹³é¢é£æ ¼ | FineUIé£æ ¼ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| IE6 | ¡Á | ¡Á | ¡Á | ¡Á | ¡Á | ¡Á |
-| IE7 | ¡Á | ¡Á | ¡Á | ¡Á | ¡Á | ¡Á |
-| IE8 | ¡Á | ¡Ì | ¡Ì | ¡Ì | ¡Á | ¡Á |
-| IE9 | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì |
-| IE10 | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì |
-| IE11 | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì |
-| Chrome | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì |
-| Firefox | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì |
-| Safari | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì | ¡Ì |
+| IE6 | Ã— | Ã— | Ã— | Ã— | Ã— | Ã— |
+| IE7 | Ã— | Ã— | Ã— | Ã— | Ã— | Ã— |
+| IE8 | Ã— | âˆš | âˆš | âˆš | Ã— | Ã— |
+| IE9 | âˆš | âˆš | âˆš | âˆš | âˆš | âˆš |
+| IE10 | âˆš | âˆš | âˆš | âˆš | âˆš | âˆš |
+| IE11 | âˆš | âˆš | âˆš | âˆš | âˆš | âˆš |
+| Chrome | âˆš | âˆš | âˆš | âˆš | âˆš | âˆš |
+| Firefox | âˆš | âˆš | âˆš | âˆš | âˆš | âˆš |
+| Safari | âˆš | âˆš | âˆš | âˆš | âˆš | âˆš |
